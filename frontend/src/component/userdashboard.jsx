@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 
 const UserDashboard = () => {
-  const [userData, setUserData] = useState(null);
-  const [error, setError] = useState(null);
+  // const [userData, setUserData] = useState(null);
+  // const [error, setError] = useState(null);
 
  
 
